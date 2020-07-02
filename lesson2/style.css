@@ -1,0 +1,101 @@
+
+
+
+h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+p{
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+.box1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 50px;
+}
+
+.box2 {
+    text-align: center;
+    margin: 0 auto;
+    float: left;
+    width: 400px;
+}
+
+.box3 {
+    text-align: center;
+    margin: 0 auto;
+    float: left;
+    width: 400px;
+
+}
+
+.box4 {
+    text-align: center;
+    margin: 0 auto;
+    float: left;
+    width: 400px;
+;
+}
+
+.box5 {
+    margin: 0 auto;
+    width: 1200px;
+    margin-top: 100px;
+    
+
+    
+}
+
+.circle1 {
+    margin: 0 auto;
+    border:3px solid orange;
+    background-color: white;
+    width: 90px;
+	height: 90px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+    border-radius: 50%;
+    background-image: url(lampa.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.circle2 {
+    margin: 0 auto;
+    border:3px solid orange;
+    background-color: white;
+    width: 90px;
+	height: 90px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+    border-radius: 50%;
+    text-align: center;
+    background-image: url(klava.png);
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.circle3 {
+    margin: 0 auto;
+    border:3px solid orange;
+    background-color: white;
+    width: 90px;
+	height: 90px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+    border-radius: 50%;
+    background-image: url(molniya.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 30px;
+    
+}
+
+
